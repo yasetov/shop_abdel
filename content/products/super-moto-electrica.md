@@ -4,11 +4,11 @@ categories = []
 comparePrice = ""
 date = 2020-05-31T22:00:00Z
 draft = true
-images = []
+images = ["/uploads/099a-seccom-domline.jpg"]
 inStock = ""
 tags = []
 thumbnailImage = ""
-title = "super moto electrica"
+title = "reloj tocao"
 variants = []
 [options]
 Color = []
