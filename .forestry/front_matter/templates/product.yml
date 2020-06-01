@@ -56,4 +56,5 @@ fields:
     name: inStock
     label: inStock
 pages:
+- content/about-us.md
 - content/products/super-moto-electrica.md
