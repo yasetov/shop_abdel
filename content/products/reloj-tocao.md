@@ -1,0 +1,17 @@
++++
+actualPrice = "2000"
+categories = ["electrodomesticos"]
+comparePrice = ""
+date = 2020-05-31T22:00:00Z
+draft = true
+images = ["/uploads/099a-seccom-domline.jpg"]
+inStock = "20"
+tags = []
+thumbnailImage = "/uploads/099a-seccom-domline.jpg"
+title = "reloj tocao"
+variants = []
+[options]
+Color = []
+Size = []
+
++++
