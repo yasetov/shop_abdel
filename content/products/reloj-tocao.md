@@ -1,14 +1,14 @@
 +++
-actualPrice = "2000"
-categories = ["electrodomesticos"]
+actualPrice = "1380 USD"
+categories = ["Moto Electrica"]
 comparePrice = ""
 date = 2020-05-31T22:00:00Z
 draft = true
-images = ["/uploads/099a-seccom-domline.jpg"]
-inStock = "20"
+images = ["/uploads/img_20200526_101334.png", "/uploads/099a-seccom-domline.jpg"]
+inStock = "30"
 tags = []
-thumbnailImage = "/uploads/099a-seccom-domline.jpg"
-title = "reloj tocao"
+thumbnailImage = "/uploads/img_20200526_101334.png"
+title = "Moto Electrica Mishouzuki"
 variants = []
 [options]
 Color = []
