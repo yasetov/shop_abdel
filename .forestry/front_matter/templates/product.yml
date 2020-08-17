@@ -57,5 +57,6 @@ fields:
     label: inStock
 pages:
 - content/about-us.md
+- content/products/guitarra.md
 - content/products/reloj-tocao.md
 - content/products/super-moto-electrica.md
